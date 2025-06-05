@@ -1,4 +1,4 @@
 title: "Just a Blog"
-theme: jekyll-theme-hacker
-baseurl: "blog"
+theme: minima
+baseurl: "/blog"
 url: ""
