@@ -25,7 +25,7 @@ My most used characters were finally centered; the "P," even though not centered
 
 After a few days, I started nitpicking the Asset layout. The layout moved "P" from the pinky finger to the index finger and "U" from the index finger to the middle one. I used both letters equally and both fingers are relatively strong, so I thought I could swap "P" and "U," moving the latter to its original position and making the layout even closer to QWERTY. I also had a similar thought about "J" and "K," where I could swap them to move "J" back to its original finger, even though it was not centered. After a few iterations, I ended up with the following keyboard layout that I use to this date.
 
-[keyboard layout image]
+![keyboard](https://github.com/user-attachments/assets/ccebbef8-6033-49b3-804c-f396092a084f)
 
 ## Experiences with other OSes
 
