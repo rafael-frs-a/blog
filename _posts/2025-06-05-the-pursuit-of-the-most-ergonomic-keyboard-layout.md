@@ -2,9 +2,8 @@
 layout: post
 title: "The pursuit of the most ergonomic keyboard layout"
 date: 2025-06-05
+author: rafael-frs-a
 ---
-# The pursuit of the most ergonomic keyboard layout
-
 ## The main story
 
 The year was 2017, and I started to feel a constant ache in my right-hand pinky finger while coding. I figured it was due to stretching it too much when pressing "P" on my keyboard, so I thought I could solve it by adjusting the resting position of my right hand. No success. I then remembered something a friend told me a couple of years earlier about moving from [QWERTY](https://en.wikipedia.org/wiki/QWERTY) to a different keyboard layout called [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout). That QWERTY was made to be purposefully anti-ergonomic, with the more commonly used keys far from each other, because, back in the day, pressing two nearby keys on a typing machine too fast could cause them to stick (I have a vague memory of that happening to me as a child when I had the opportunity to play with one), and since modern keyboards don't have that problem, ergonomic layouts are actually usable.
