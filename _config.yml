@@ -1,4 +1,4 @@
 title: "Just a Blog"
 theme: jekyll-theme-hacker
-baseurl: "/blog"
-url: "https://rafael-frs-a.github.io"
+baseurl: "blog"
+url: ""
