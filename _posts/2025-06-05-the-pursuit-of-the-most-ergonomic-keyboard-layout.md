@@ -40,4 +40,4 @@ This also doesn't come without downsides. If you don't keep practicing QWERTY, y
 
 ## Assets
 
-You can find the `.klc` file I used [here](assets/assetp.klc).
+You can find the `.klc` file I used [here]({{ "/assets/assetp.klc" | relative_url }}).
